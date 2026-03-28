@@ -69,7 +69,7 @@ It asks the user a few questions and then generates a text file with a personali
 
 Run the following commands on a Linux system:
 
-git clone https://github.com/sakshirathi2006/oss-audit-24bce10142.git
+git clone https://github.com/sakshirathi2006/oss-audit-24BCE10142.git
 cd oss-audit-24BCE10142
 
 Make the scripts executable:

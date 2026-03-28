@@ -43,9 +43,9 @@ It also shows details like version and license. In this script, I used if-else c
 ---
 
 ###  Script 3: Disk and Permission Auditor
-This script goes through some important directories and shows their size and permissions.
+This script goes through some important directories and shows their size and permissions
 
-It uses loops and commands like `du` and `ls`. While writing this script, I learned more about file permissions in Linux.
+It uses loops and commands like `du` and `ls`, which helped me understand directory usage and permissions.
 
 ---
 
@@ -81,3 +81,9 @@ Run the scripts:
 ./script3_disk_audit.sh
 ./script4_log_analyzer.sh /var/log/syslog error
 ./script5_manifesto.sh
+
+---
+
+## Conclusion
+
+This project helped me understand the importance of open-source software and how Git is used in real-world development. I also gained practical experience in Linux and shell scripting.

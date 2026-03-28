@@ -65,7 +65,7 @@ It asks the user a few questions and then generates a text file with a personali
 
 ---
 
-## ▶️ How to Run the Scripts
+▶️ How to Run the Scripts
 
 Run the following commands on a Linux system:
 

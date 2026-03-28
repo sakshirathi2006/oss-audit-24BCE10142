@@ -1,6 +1,4 @@
-- Project Title: Open Source Audit – Git  
-
-# Open Source Audit Project
+  # Open Source Audit Project
 
 ## 👤 Student Details
 - Name: Sakshi Rathi 

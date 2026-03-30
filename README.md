@@ -81,7 +81,9 @@ Run the scripts:
 ./script2_package_inspector.sh
 
 ./script3_disk_audit.sh
+
 ./script4_log_analyzer.sh /var/log/syslog error
+
 ./script5_manifesto.sh
 
 ---
